@@ -8,3 +8,7 @@
     <a href="https://twitter.com/cmphlvn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
     <a href="https://www.linkedin.com/in/cem-pehlivan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=cempehlivan&show_icons=true&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cempehlivan&layout=compact" />
+</p>
