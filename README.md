@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-<p>I'm Cem, Web Software Development Manager from <img src="https://cdn-icons-png.flaticon.com/128/3909/3909414.png" width="13"/> <b>Istanbul, Turkey</b>, currently working from <b>GizSoft Business Solutions</b>. </p>
+<p>I'm Cem, Software Development Manager from <img src="https://cdn-icons-png.flaticon.com/128/3909/3909414.png" width="13"/> <b>Istanbul, Turkey</b>, currently working from <b>GizSoft Business Solutions</b>. </p>
 
 <h3>Where to find me</h3>
 <p>
